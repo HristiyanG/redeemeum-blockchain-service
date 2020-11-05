@@ -1,0 +1,11 @@
+{
+  "name": "redeemeum-blockchain-service",
+  "version": "0.0.1",
+  "description": "Redeemeum Blockhain service",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.0.4"
+  }
+}
